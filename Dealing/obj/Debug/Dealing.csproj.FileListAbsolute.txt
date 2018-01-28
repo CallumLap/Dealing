@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2015\Projects\Dealing\Dealing\bin\Debug\Dealing.exe.config
+C:\Users\Callum\Documents\Dealing\Dealing\bin\Debug\Dealing.exe.config
+C:\Users\Callum\Documents\Dealing\Dealing\bin\Debug\Dealing.exe
+C:\Users\Callum\Documents\Dealing\Dealing\bin\Debug\Dealing.pdb
+C:\Users\Callum\Documents\Dealing\Dealing\obj\Debug\Dealing.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Documents\Dealing\Dealing\obj\Debug\Dealing.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\Dealing\Dealing\obj\Debug\Dealing.exe
+C:\Users\Callum\Documents\Dealing\Dealing\obj\Debug\Dealing.pdb
+C:\Users\user\Documents\Game Jam\Dealing 2\Dealing\bin\Debug\Dealing.exe.config
+C:\Users\user\Documents\Game Jam\Dealing 2\Dealing\obj\Debug\Dealing.exe
+C:\Users\user\Documents\Game Jam\Dealing 2\Dealing\obj\Debug\Dealing.pdb
+C:\Users\user\Documents\Game Jam\Dealing 2\Dealing\bin\Debug\Dealing.exe
+C:\Users\user\Documents\Game Jam\Dealing 2\Dealing\bin\Debug\Dealing.pdb
+C:\Users\user\Documents\Game Jam\Dealing 2\Dealing\obj\Debug\Dealing.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Game Jam\Dealing 3\Dealing\bin\Debug\Dealing.exe.config
+C:\Users\user\Documents\Game Jam\Dealing 3\Dealing\obj\Debug\Dealing.exe
+C:\Users\user\Documents\Game Jam\Dealing 3\Dealing\obj\Debug\Dealing.pdb
+C:\Users\user\Documents\Game Jam\Dealing 3\Dealing\bin\Debug\Dealing.exe
+C:\Users\user\Documents\Game Jam\Dealing 3\Dealing\bin\Debug\Dealing.pdb
+C:\Users\user\Documents\Game Jam\Dealing 3\Dealing\obj\Debug\Dealing.csprojResolveAssemblyReference.cache
